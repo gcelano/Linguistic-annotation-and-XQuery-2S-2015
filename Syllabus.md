@@ -1,6 +1,6 @@
-## SYLLABUS FOR THE COURSE 
-"LINGUISTIC ANNOTATION AND DATA EXTRACTION WITH XQUERY" 
-held at Leipzig University, Summer semester 2015.
+### SYLLABUS
+## "LINGUISTIC ANNOTATION AND DATA EXTRACTION WITH XQUERY" 
+### Leipzig University, Summer semester 2015.
 
 (The following syllabus may be subject to modifications, so please consult it regularly)
 
