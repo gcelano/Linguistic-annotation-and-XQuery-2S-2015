@@ -35,7 +35,7 @@
   * Argument structure
   * Verbnet
 
-(More to follow)
+(...)
 
 * 7 July 2014
   * Exam
