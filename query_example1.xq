@@ -11,4 +11,4 @@ let $m := $o/ancestor::sentence//token[@id = $p/preceding-sibling::governor/@idx
 let $l := $o//ancestor::sentence/tokens//word
 where $i and $p (: and $m :) 
 return
-<r>{data($l)}</r>
+<r>{data($l)}</r> 
