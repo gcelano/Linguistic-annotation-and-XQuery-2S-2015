@@ -37,4 +37,9 @@
 
 (More to follow)
 
+* 7 July 2014
+  * Exam
 
+* 14 July 2014
+  * Recap and prospects 
+  
