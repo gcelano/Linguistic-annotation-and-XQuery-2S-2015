@@ -32,7 +32,7 @@
 
 * 26 May 2014
   * Functions in XQuery
-  * Tokenization, substring, regular expressions 
+  * String functions
  
 * 2 June 2014
   * Argument structure
