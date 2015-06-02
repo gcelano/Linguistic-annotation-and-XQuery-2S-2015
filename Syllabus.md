@@ -28,10 +28,13 @@
   * Syntax: technical nodes and linguistic nodes
 
 * 19 May 2014
-  * Functions in XQuery
-  * Tokenization, substring, regular expressions
+  * The FLWOR expression: more examples
 
 * 26 May 2014
+  * Functions in XQuery
+  * Tokenization, substring, regular expressions 
+ 
+* 2 June 2014
   * Argument structure
   * Verbnet
 
