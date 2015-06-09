@@ -38,6 +38,10 @@
   * Argument structure
   * Verbnet
 
+* 9 June 2014
+  * More about string functions
+  * Exercises with Verbnet
+  
 (...)
 
 * 7 July 2014
