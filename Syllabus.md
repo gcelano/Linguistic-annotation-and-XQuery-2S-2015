@@ -42,6 +42,10 @@
   * More about string functions
   * Exercises with Verbnet
   
+* 16 June 2014
+  * The file module
+  * Introduction to the Update facility
+
 (...)
 
 * 7 July 2014
