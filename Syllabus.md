@@ -43,6 +43,9 @@
   * Exercises with Verbnet
   
 * 16 June 2014
+  * Correction of exercises and discussion
+
+* 23 June 2014
   * The file module
   * Introduction to the Update facility
 
