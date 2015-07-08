@@ -27,7 +27,7 @@
   * Syntax: technical nodes and linguistic nodes
 
 * 19 May 2014
-  * The FLWOR expression: more examples
+  * The FLWOR expression: examples about the use of the for and let clauses
 
 * 26 May 2014
   * Functions in XQuery
