@@ -47,12 +47,13 @@
 
 * 23 June 2014
   * The file module
-  * Introduction to the Update facility
+  * Introduction to the Update Facility
 
-(...)
+* 30 June 2014
+  * The Update Facility: understanding the logic and examples
 
 * 7 July 2014
-  * Exam
+  * In-class examination: writing of XQuery scripts to solve problems concerning data extraction
 
 * 14 July 2014
   * Recap and prospects 
