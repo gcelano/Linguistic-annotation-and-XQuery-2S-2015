@@ -34,6 +34,7 @@
   * String functions
  
 * 2 June 2014
+  * The Ancient Greek and Latin Dependency Treebank 
   * Argument structure
   * Verbnet
 
