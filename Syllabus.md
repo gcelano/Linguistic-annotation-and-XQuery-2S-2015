@@ -2,7 +2,6 @@
 ## LINGUISTIC ANNOTATION AND DATA EXTRACTION WITH XQUERY
 ### Leipzig University, Summer semester 2015.
 
-(The following syllabus may be subject to modifications, so please consult it regularly)
 
 
 * 7 April 2014
